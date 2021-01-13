@@ -20,7 +20,7 @@ Matkul : Bhs.Pemrograman
 
     ![Images](picture/viewnilai.png)
 
-    ![Images](picture/inputniali.png)
+    ![Images](picture/inputnilai.png)
 
 
 3. Buatlah sebuah folder untuk dijadikan package atau menyimpan kumpulan modul-modul
