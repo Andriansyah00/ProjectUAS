@@ -16,21 +16,21 @@ Matkul : Bhs.Pemrograman
 
 2. Setelah itu untuk mengakses nya gunakan contoh perintah seperti ini 
   
-    ![Images](picture/daftarnilai.jpg)
+    ![Images](picture/daftarnilai.png)
 
-    ![Images](picture/viewnilai.jpg)
+    ![Images](picture/viewnilai.png)
 
-    ![Images](picture/inputniali.jpg)
+    ![Images](picture/inputniali.png)
 
 
 3. Buatlah sebuah folder untuk dijadikan package atau menyimpan kumpulan modul-modul
 
 4. Setelah itu buat file __init__.py untuk mengakes modul modul nya
 
-  ![Images](picture/init.jpg)
+  ![Images](picture/init.png)
 
   
-![Images](picture/initview.jpg)
+![Images](picture/initview.png)
 
 
 
